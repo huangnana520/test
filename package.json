@@ -1,6 +1,6 @@
 {
   "name": "my-pack",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "tes package",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@https://github.com/huangnana520/test.git"
+    "url": "git@github.com:huangnana520/test.git"
   },
   "keywords": [],
   "author": "wkq",
