@@ -1,12 +1,16 @@
 {
   "name": "my-pack",
   "version": "0.2.0",
-  "description": "",
+  "description": "tes package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@https://github.com/huangnana520/test.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "wkq",
   "license": "ISC"
 }
